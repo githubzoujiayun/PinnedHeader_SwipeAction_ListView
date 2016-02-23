@@ -1,0 +1,2 @@
+# PinnedHeader_SwipeAction_ListView
+pinnedheaderlistview 结合 SwipeActionAdapter，实现可以滑动操作的、带分类Header的ListView
