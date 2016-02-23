@@ -1,2 +1,2 @@
-include ':app', ':SwipeActionLibrary'
+include ':sample', ':SwipeActionLibrary'
 include ':PinnedHeaderLibrary'

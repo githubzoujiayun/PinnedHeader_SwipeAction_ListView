@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MySwipeListHeader.iml" filepath="$PROJECT_DIR$/MySwipeListHeader.iml" />
       <module fileurl="file://$PROJECT_DIR$/PinnedHeaderLibrary/PinnedHeaderLibrary.iml" filepath="$PROJECT_DIR$/PinnedHeaderLibrary/PinnedHeaderLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PinnedHeader_SwipeAction_ListView.iml" filepath="$PROJECT_DIR$/PinnedHeader_SwipeAction_ListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwipeActionLibrary/SwipeActionLibrary.iml" filepath="$PROJECT_DIR$/SwipeActionLibrary/SwipeActionLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
     </modules>
   </component>
 </project>
