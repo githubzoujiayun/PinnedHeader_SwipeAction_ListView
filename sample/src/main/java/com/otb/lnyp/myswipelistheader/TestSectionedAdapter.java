@@ -67,7 +67,6 @@ public class TestSectionedAdapter extends SectionedBaseAdapter {
         } else {
             layout = (LinearLayout) convertView;
         }
-//        ((TextView) layout.findViewById(R.id.textItem)).setText("Header for section " + section);
         ((TextView) layout.findViewById(R.id.textItem)).setText(headers.get(section).name);
         return layout;
     }

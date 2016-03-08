@@ -131,7 +131,7 @@ public class MainActivity extends Activity implements SwipeActionAdapter.SwipeAc
                     dir = "标为完成";
                     break;
                 case DIRECTION_NORMAL_RIGHT:
-                    dir = "标为完成";
+                    dir = "标为未完成";
                     break;
             }
 
