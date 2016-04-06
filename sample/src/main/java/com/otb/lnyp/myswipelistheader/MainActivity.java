@@ -46,7 +46,7 @@ public class MainActivity extends Activity implements SwipeActionAdapter.SwipeAc
         mAdapter = new SwipeActionAdapter(sectionedAdapter, sectionedAdapter);
 
         mAdapter.setSwipeActionListener(this)
-                .setDimBackgrounds(true)
+                .setDimBackgrounds(false)
                 .setListView(listView);
 
         listView.setAdapter(mAdapter);
